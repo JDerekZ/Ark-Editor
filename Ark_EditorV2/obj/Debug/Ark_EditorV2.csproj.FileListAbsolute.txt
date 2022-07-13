@@ -1,0 +1,13 @@
+C:\Users\jdere\OneDrive\Documentos\Programación II\Ark_EditorV2\Ark_EditorV2\bin\Debug\Ark_EditorV2.exe.config
+C:\Users\jdere\OneDrive\Documentos\Programación II\Ark_EditorV2\Ark_EditorV2\bin\Debug\Ark_EditorV2.exe
+C:\Users\jdere\OneDrive\Documentos\Programación II\Ark_EditorV2\Ark_EditorV2\bin\Debug\Ark_EditorV2.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\Ark_EditorV2\Ark_EditorV2\obj\Debug\Ark_EditorV2.csproj.AssemblyReference.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\Ark_EditorV2\Ark_EditorV2\obj\Debug\Ark_EditorV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\Ark_EditorV2\Ark_EditorV2\obj\Debug\Ark_EditorV2.FrmArkMenu.resources
+C:\Users\jdere\OneDrive\Documentos\Programación II\Ark_EditorV2\Ark_EditorV2\obj\Debug\Ark_EditorV2.Properties.Resources.resources
+C:\Users\jdere\OneDrive\Documentos\Programación II\Ark_EditorV2\Ark_EditorV2\obj\Debug\Ark_EditorV2.csproj.GenerateResource.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\Ark_EditorV2\Ark_EditorV2\obj\Debug\Ark_EditorV2.csproj.CoreCompileInputs.cache
+C:\Users\jdere\OneDrive\Documentos\Programación II\Ark_EditorV2\Ark_EditorV2\obj\Debug\Ark_EditorV2.exe
+C:\Users\jdere\OneDrive\Documentos\Programación II\Ark_EditorV2\Ark_EditorV2\obj\Debug\Ark_EditorV2.pdb
+C:\Users\jdere\OneDrive\Documentos\Programación II\Ark_EditorV2\Ark_EditorV2\obj\Debug\Ark_EditorV2.FrmArKNotes.resources
+C:\Users\jdere\OneDrive\Documentos\Programación II\Ark_EditorV2\Ark_EditorV2\obj\Debug\Ark_EditorV2.FrmArkPaint.resources
